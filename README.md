@@ -139,5 +139,5 @@ Como se puede observar en la primera prueba, todas las peticiones fueron exitosa
 ### Licencia & Derechos de Autor
 **©️** Ana Maria Salazar Bohorquez && Richard Santiago Urrea Garcia, Estudiantes de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
 
-Licencia bajo la [GNU General Public License](/LICENSE.txt)
+Licencia bajo la [GNU General Public License](/LICENSE)
 
