@@ -21,9 +21,17 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 ![](images/part3/part3-function-configii.png)
 
+![](images/1.PNG)
+
+![](images/2.PNG)
+
+![](images/3.PNG)
+
 2. Instale la extensión de **Azure Functions** para Visual Studio Code.
 
 ![](images/part3/part3-install-extension.png)
+
+![](images/4.PNG)
 
 3. Despliegue la Function de Fibonacci a Azure usando Visual Studio Code. La primera vez que lo haga se le va a pedir autenticarse, siga las instrucciones.
 
@@ -31,13 +39,40 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 ![](images/part3/part3-deploy-function-2.png)
 
+![](images/5.PNG)
+
+![](images/6.PNG)
+
+![](images/7.PNG)
+
 4. Dirijase al portal de Azure y pruebe la function.
 
 ![](images/part3/part3-test-function.png)
 
+![](images/8.PNG)
+
+![](images/14.PNG)
+
 5. Modifique la coleción de POSTMAN con NEWMAN de tal forma que pueda enviar 10 peticiones concurrentes. Verifique los resultados y presente un informe.
 
+![](images/15.PNG)
+
+![](images/9.PNG)
+
 6. Cree una nueva Function que resuleva el problema de Fibonacci pero esta vez utilice un enfoque recursivo con memoization. Pruebe la función varias veces, después no haga nada por al menos 5 minutos. Pruebe la función de nuevo con los valores anteriores. ¿Cuál es el comportamiento?.
+
+
+Prueba 1
+
+![](images/10.PNG)
+
+![](images/11.PNG)
+
+Prueba 2
+
+![](images/12.PNG)
+
+![](images/13.PNG)
 
 **Preguntas**
 
